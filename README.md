@@ -1,4 +1,4 @@
-# PRABATH-MD 👨‍💻 🇱🇰    
+# HEYY 👨‍💻 🇱🇰    
 
 <p align="center">  
   <a href="https://i.postimg.cc/8zRCGdNT/IMG-20250602-WA0030.jpg">
@@ -8,7 +8,7 @@
 
 ---
 
-### Deploy Your Own **PRABATH-MD Bot**  
+### Deploy Your Own ** Bot**  
 
 <p align="center">  
   <a href="https://prabathmd-official.vercel.app/">  
